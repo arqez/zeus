@@ -1,0 +1,4 @@
+requests
+colorama
+telebot
+user_agent
