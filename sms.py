@@ -20,7 +20,6 @@ def ui():
     print(f"""
 {Fore.CYAN}
 
-
  ██▓███   ██▀███   ▒█████   ▄▄▄██▀▀▀▓█████  ▄████▄  ▄▄▄█████▓   ▒███████▒▓█████  █    ██   ██████ 
 ▓██░  ██▒▓██ ▒ ██▒▒██▒  ██▒   ▒██   ▓█   ▀ ▒██▀ ▀█  ▓  ██▒ ▓▒   ▒ ▒ ▒ ▄▀░▓█   ▀  ██  ▓██▒▒██    ▒ 
 ▓██░ ██▓▒▓██ ░▄█ ▒▒██░  ██▒   ░██   ▒███   ▒▓█    ▄ ▒ ▓██░ ▒░   ░ ▒ ▄▀▒░ ▒███   ▓██  ▒██░░ ▓██▄   
@@ -34,8 +33,6 @@ def ui():
 {Fore.GREEN}by sipher#6969{Fore.RESET}
 {Fore.GREEN}github.com/siph-er{Fore.RESET}
 {Fore.GREEN}Snap & IG - siph.er{Fore.RESET}
-        
-{Fore.RESET}
 """)
     title("Zeus has loaded. || @siph.er")
 def generate_info():
