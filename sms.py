@@ -1,8 +1,7 @@
 import requests, random, os, json, re, sys, colorama, ctypes, telebot, user_agent, datetime, time
 from colorama import Fore
-import getpass
 os_name = os.environ['COMPUTERNAME']
-user_name = getpass.getuser()
+user_name = "ZeusV1"
 os_info = f"{Fore.CYAN}{user_name}@{os_name}~\n${Fore.RESET} "
 colorama.init()
 def title(text):
